@@ -1,6 +1,5 @@
 ### Hi I'm Bill Marantos 👋
 
-- 🌱 I’m currently learning Spring Boot
 
 
 <!--** 🔭 I’m currently working on ...
